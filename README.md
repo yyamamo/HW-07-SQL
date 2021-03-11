@@ -7,6 +7,6 @@
   Usage pattern: The amount flactuate significantly. A large amount spent at a restaurant once in a couple of months.
   Transactions to be investigated: The large amount as well as the small amount, should be tested to verify if those were used by the cardholder. 
 
-# Analysis for cardholder 1, 24, 25
+# Analysis for cardholder 1, 24 & 25
   Usage pattern: I see a similar usage pattern as cardholder 18. The spending amount flactuate significantly. A large amount spent at a restaurant once in a couple of months.
   Transactions to be investigated: the large amount as well as the small amount, should be tested to verify if those were used by the cardholder. 
